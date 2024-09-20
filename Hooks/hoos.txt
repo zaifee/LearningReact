@@ -1,0 +1,7 @@
+hooks in js are used to used functionality of react --
+It means using functionality of react like react provide state management facility and we can use this using hooks --
+
+
+useState hook is used to manage state like maintaining state of counter. It is divided into two parts
+1. State var: It is used to store the state 
+2. state function: is ke dawarh ham state ko change kar sakte hai
