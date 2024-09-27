@@ -31,7 +31,6 @@ const router = createBrowserRouter(
       <About />
     </div>
     
-    
   },
   {
     path: "/dashboard",
@@ -73,7 +72,6 @@ const router = createBrowserRouter(
     path: "*",
     element: <NotFound />
   }
- 
 ]
 
 )
